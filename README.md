@@ -2,6 +2,26 @@
 
 A browser extension that replaces your social media feeds with a quote.
 
+## Fork notice
+
+This is a personal fork of [jordwest/news-feed-eradicator](https://github.com/jordwest/news-feed-eradicator).  
+It diverges from upstream and is maintained for my own use.
+
+If you’re looking for the official extension or want to contribute to the main project, use the upstream repo.
+
+## What’s different in this fork
+
+- Snooze behavior is fixed to 5 minutes.
+- Options UI is simplified to match the fixed snooze behavior.
+- Documentation reflects the fork’s behavior and tooling choices.
+
+This fork is not intended for upstream contribution.
+
+## When to use this fork
+
+Use this fork if you want the simplified 5-minute snooze flow.  
+Otherwise, use the upstream extension from the Chrome Web Store / Firefox Add-ons.
+
 [Install Chrome Extension](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en)
 
 [Install Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/)
